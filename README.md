@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Himanshu Joshi
 - 👀 I’m interested in Full-Stack Web Development, Mobile App Development
-- 🌱 I’m currently learning Golang
 - 📫 How to reach me: https://www.linkedin.com/in/himanshu-joshi-1a4331218/
 
 <!---
