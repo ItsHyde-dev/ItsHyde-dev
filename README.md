@@ -5,7 +5,7 @@
 
 -   🔭 I’m currently working on [The Hyde Project](https://github.com/ItsHyde-dev/The-Hyde-Project)
 
--   🌱 I’m currently learning **NextJs13**
+-   🌱 I’m currently learning **NextJs**
 
 -   📫 How to reach me **himanshu.h.joshi@outlook.com**
 
