@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itshyde-dev&label=Profile%20views&color=0e75b6&style=flat" alt="itshyde-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itshyde-dev" alt="itshyde-dev" /></a> </p>
-
 - 🔭 I’m currently working on [The Hyde Project](https://github.com/ItsHyde-dev/The-Hyde-Project)
 
 - 🌱 I’m currently learning **NextJs13**
