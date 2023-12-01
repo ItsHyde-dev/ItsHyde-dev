@@ -5,6 +5,10 @@
 
 -   🔭 I’m currently working on [The Hyde Project](https://github.com/ItsHyde-dev/The-Hyde-Project)
 
+-   📈 I'm currently working at Jio Platforms Limited
+
+-   My Latest Project [Terminal Http Rest Client with Rust](https://github.com/ItsHyde-dev/http-client-rust)
+
 -   🌱 I’m currently learning **NextJs**
 
 -   📫 How to reach me **himanshu.h.joshi@outlook.com**
