@@ -5,11 +5,11 @@
 
 -   🔭 I’m currently working on [The Hyde Project](https://github.com/ItsHyde-dev/The-Hyde-Project)
 
--   📈 I'm currently working at Jio Platforms Limited
+-   📈 I'm currently working at Logan Fintech
 
 -   My Latest Project [Terminal Http Rest Client with Rust](https://github.com/ItsHyde-dev/http-client-rust)
 
--   🌱 I’m currently learning **NextJs**
+-   🌱 I’m currently learning **Big Data Analysis with Python**
 
 -   📫 How to reach me **himanshu.h.joshi@outlook.com**
 
